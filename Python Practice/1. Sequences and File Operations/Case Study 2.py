@@ -104,7 +104,6 @@ print("Output is :","".join(output))
 print it in reverse order.
 '''
 
-
 string=str(input("Enter a string:"))
 
 #rise to vote sir
