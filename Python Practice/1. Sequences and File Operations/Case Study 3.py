@@ -53,5 +53,3 @@ if (digit>=1 and alphabet>=1 and sp_char>=1 and (digit+alphabet+sp_char)==len(re
 else:
     print("Reference ID is invalid, Please enter correct Reference ID!")
     
-    
-            
